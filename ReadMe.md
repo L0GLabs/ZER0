@@ -1,4 +1,3 @@
-# ZER0
 
 <div align="center">
 
