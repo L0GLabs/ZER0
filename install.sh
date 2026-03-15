@@ -180,6 +180,16 @@ import atexit
 from pathlib import Path
 from datetime import datetime
 
+# Constantes de color (definidas aquí para que siempre existan)
+NC = '\033[0m'
+RED = '\033[0;31m'
+GREEN = '\033[0;32m'
+YELLOW = '\033[1;33m'
+BLUE = '\033[0;34m'
+PURPLE = '\033[0;35m'
+CYAN = '\033[0;36m'
+WHITE = '\033[1;37m'
+
 CONFIG_DIR = Path.home() / ".config" / "zer0"
 CACHE_DIR = Path.home() / ".cache" / "zer0"
 DATA_DIR = Path.home() / ".local" / "share" / "zer0"
