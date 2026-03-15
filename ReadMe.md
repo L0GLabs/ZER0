@@ -1,4 +1,4 @@
-
+# ZER0
 
 <div align="center">
 
@@ -50,7 +50,7 @@ The first time you launch it, ZER0 will ask for your **name** and **preferred la
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/LogLabsGit/ZER0.git
+git clone https://github.com/LogLabsHQ/ZER0.git
 cd ZER0
 
 # 2. Give the installer permission
@@ -203,7 +203,7 @@ That's it. The installer overwrites the old `zero` binary with the new version a
 
 > **Note:** If you moved or deleted the cloned folder, just clone it again and run the installer:
 > ```bash
-> git clone https://github.com/LogLabsGit/ZER0.git
+> git clone https://github.com/LogLabsHQ/ZER0.git
 > cd ZER0
 > ./install.sh
 > ```
@@ -227,8 +227,8 @@ Then remove the `# ─── ZER0 ───` block from your `.bashrc` / `.zshrc
 
 **LogLabs**
 
-[![GitHub](https://img.shields.io/badge/GitHub-LogLabsGit-181717?style=flat-square&logo=github)](https://github.com/LogLabsGit)
-[![Repo](https://img.shields.io/badge/Repo-ZER0-red?style=flat-square&logo=github)](https://github.com/LogLabsGit/ZER0)
+[![GitHub](https://img.shields.io/badge/GitHub-LogLabsHQ-181717?style=flat-square&logo=github)](https://github.com/LogLabsHQ)
+[![Repo](https://img.shields.io/badge/Repo-ZER0-red?style=flat-square&logo=github)](https://github.com/LogLabsHQ/ZER0)
 
 </div>
 
@@ -274,7 +274,7 @@ La primera vez que lo abras, ZER0 te preguntará tu **nombre** e **idioma prefer
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/LogLabsGit/ZER0.git
+git clone https://github.com/LogLabsHQ/ZER0.git
 cd ZER0
 
 # 2. Dale permisos al instalador
@@ -361,7 +361,7 @@ Eso es todo. El instalador sobreescribe el binario `zero` con la nueva versión 
 
 > **Nota:** Si moviste o borraste la carpeta clonada, solo clónala de nuevo y corre el instalador:
 > ```bash
-> git clone https://github.com/LogLabsGit/ZER0.git
+> git clone https://github.com/LogLabsHQ/ZER0.git
 > cd ZER0
 > ./install.sh
 > ```
@@ -383,7 +383,7 @@ Y elimina el bloque `# ─── ZER0 ───` de tu `.bashrc` / `.zshrc`.
 
 **Desarrollado con ♥ por LogLabs**
 
-[![GitHub](https://img.shields.io/badge/GitHub-LogLabsGit-181717?style=flat-square&logo=github)](https://github.com/LogLabsGit)
-[![Repo](https://img.shields.io/badge/Repo-ZER0-red?style=flat-square&logo=github)](https://github.com/LogLabsGit/ZER0)
+[![GitHub](https://img.shields.io/badge/GitHub-LogLabsHQ-181717?style=flat-square&logo=github)](https://github.com/LogLabsHQ)
+[![Repo](https://img.shields.io/badge/Repo-ZER0-red?style=flat-square&logo=github)](https://github.com/LogLabsHQ/ZER0)
 
 </div>
