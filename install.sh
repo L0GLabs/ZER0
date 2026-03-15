@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ─────────────────────────────────────────────────────────────────────────────
 #  ZER0 Installer — Arch Linux
-#  Desarrollado por LogLabs — https://github.com/LogLabsGit
+#  Desarrollado por LogLabs — https://github.com/LogLabsHQ
 # ─────────────────────────────────────────────────────────────────────────────
 
 set -euo pipefail
@@ -159,8 +159,8 @@ DIM = "\033[2m";         B   = "\033[1m";         RST = "\033[0m"
 
 VERSION = "1.0.3"
 AUTHOR  = "LogLabs"
-GITHUB  = "https://github.com/LogLabsGit"
-REPO    = "https://github.com/LogLabsGit/ZER0"
+GITHUB  = "https://github.com/LogLabsHQ"
+REPO    = "https://github.com/LogLabsHQ/ZER0"
 MIT     = "MIT License — Copyright (c) 2026 LogLabs"
 WEB     = "https://loglabsgit.github.io/ZER0"
 
@@ -742,5 +742,5 @@ echo -e "    ${W}source ~/.bashrc${RST}  ${DIM}(bash)${RST}"
 echo -e "    ${W}source ~/.zshrc${RST}   ${DIM}(zsh)${RST}"
 echo ""
 echo -e "  ${DIM}${MSG_DEV} ${W}LogLabs${RST}"
-echo -e "  ${DIM}${MSG_REPO} ${C}https://github.com/LogLabsGit/ZER0${RST}"
+echo -e "  ${DIM}${MSG_REPO} ${C}https://github.com/LogLabsHQ/ZER0${RST}"
 echo ""
