@@ -189,6 +189,27 @@ ZER0/
 
 ---
 
+## Updating ZER0
+
+When a new version is released, update with 3 commands:
+
+```bash
+cd ~/ZER0
+git pull
+./install.sh
+```
+
+That's it. The installer overwrites the old `zero` binary with the new version automatically. Your shortcuts, name and language preference are kept — they live in `~/.config/zer0/config.json` and are never touched by the installer.
+
+> **Note:** If you moved or deleted the cloned folder, just clone it again and run the installer:
+> ```bash
+> git clone https://github.com/LogLabsGit/ZER0.git
+> cd ZER0
+> ./install.sh
+> ```
+
+---
+
 ## Uninstall
 
 ```bash
@@ -323,6 +344,27 @@ ZER0 soporta **Español** e **English**.
 - Se elige al instalar con flechas `↑↓ + Enter`
 - Se puede cambiar en cualquier momento con el comando `lang` dentro de ZER0
 - Se guarda permanentemente en `~/.config/zer0/config.json`
+
+---
+
+## Actualizar ZER0
+
+Cuando salga una nueva versión, actualiza con 3 comandos:
+
+```bash
+cd ~/ZER0
+git pull
+./install.sh
+```
+
+Eso es todo. El instalador sobreescribe el binario `zero` con la nueva versión automáticamente. Tus atajos, nombre e idioma se conservan — viven en `~/.config/zer0/config.json` y el instalador nunca los toca.
+
+> **Nota:** Si moviste o borraste la carpeta clonada, solo clónala de nuevo y corre el instalador:
+> ```bash
+> git clone https://github.com/LogLabsGit/ZER0.git
+> cd ZER0
+> ./install.sh
+> ```
 
 ---
 
